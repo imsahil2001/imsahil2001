@@ -9,7 +9,7 @@
 
 - 💬 Ask me about HTML,CSS and Javascript
 
-- 📫 How to reach me [sahilkkr56@gmail.com]
+- 📫 How to reach me sahilkkr56@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
